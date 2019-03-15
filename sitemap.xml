@@ -2,6 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://www.limbo.vc/2019/03/15/hexo%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</loc>
+    
+    <lastmod>2019-03-15T16:16:04.775Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://www.limbo.vc/tags/index.html</loc>
+    
+    <lastmod>2019-03-15T15:14:56.154Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://www.limbo.vc/categories/index.html</loc>
+    
+    <lastmod>2019-03-15T15:13:55.651Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://www.limbo.vc/2019/03/15/test/</loc>
+    
+    <lastmod>2019-03-15T14:58:53.201Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://www.limbo.vc/2019/03/15/hello-world/</loc>
     
     <lastmod>2019-03-15T08:32:27.306Z</lastmod>
